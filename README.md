@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm sujoy ghoshal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" with="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
